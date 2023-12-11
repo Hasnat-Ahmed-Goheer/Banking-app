@@ -38,9 +38,9 @@ For testing purposes, use the following accounts:
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/Hasnat-Ahmed-Goheer/Banking-app.git
-
+  ```
+  git clone https://github.com/Hasnat-Ahmed-Goheer/Banking-app.git
+  ```
 Thank you for exploring Bankist!
   Reach out for queries or suggestions at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
 

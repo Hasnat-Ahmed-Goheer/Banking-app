@@ -1,5 +1,15 @@
 # Bankist - Online Banking App
 
+![GitHub repo size](https://img.shields.io/github/repo-size/Hasnat-Ahmed-Goheer/Banking-app)
+![GitHub last commit](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Banking-app?color=blue)
+![GitHub stars](https://img.shields.io/github/stars/Hasnat-Ahmed-Goheer/Banking-app)
+![GitHub forks](https://img.shields.io/github/forks/Hasnat-Ahmed-Goheer/Banking-app)
+![GitHub issues](https://img.shields.io/github/issues/Hasnat-Ahmed-Goheer/Banking-app)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Hasnat-Ahmed-Goheer/Banking-app)
+
+![Last Updated](https://img.shields.io/github/last-commit/Hasnat-Ahmed-Goheer/Banking-app?label=Last%20Updated&color=yellow)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
 ## Introduction
 
 Welcome to the Bankist App repository. This online banking application, developed by Hasnat Ahmed Goheer, showcases modern web development techniques using HTML5, CSS3, and JavaScript (ES6).

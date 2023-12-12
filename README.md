@@ -41,8 +41,14 @@ For testing purposes, use the following accounts:
   ```
   git clone https://github.com/Hasnat-Ahmed-Goheer/Banking-app.git
   ```
+2. Open index.html in a browser to use the app.
+
+## Contributing
+Feel free to contribute, suggest improvements, or give feedback. Fork the repository, make your changes, and submit a pull request or open an issue.
 Thank you for exploring Bankist!
-  Reach out for queries or suggestions at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
+
+## Contact
+Reach out for queries or suggestions at [ch.hsyahmedgoheer@hotmail.com](mailto:ch.hsyahmedgoheer@hotmail.com).
 
 <!---
 Repository URL: https://github.com/Hasnat-Ahmed-Goheer/Banking-app
